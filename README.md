@@ -1,6 +1,12 @@
 # 2-Players-Mode-cnaastwhs-Mod
 This is a mod I created under the MIT license for the fan game Carry Nalzoo Around and Shoot Things with Him Simulator.
 
+Character based from the OC of @Elsqued
+
+Here: 
+
+https://baldisbasicsscratch.fandom.com/wiki/Elsqued_(Character)
+
 
 Credit to @Elsqued for created this fan game joke
 
